@@ -4,6 +4,8 @@ from turtle import *
 import random
 import time
 
+#test
+
 #Define constants
 CAR_SPEED = 0
 MAX_SPEED = 8
